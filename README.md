@@ -7,3 +7,12 @@ A beginner developer that trying to be better
 
 <h1>Projects I currently working on:</h1>
 <a href="https://github.com/modularium/modularium" target="_blank"> <img src="https://avatars.githubusercontent.com/u/80824453?s=400&v=4" width="40" height="40"/> </a>
+
+<br>
+<br>
+<br>
+
+<h1>Other Info</h1>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=redcarti&show_icons=true&locale=en" alt="redcarti" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redcarti&" alt="redcarti" /></p>
