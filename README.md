@@ -1,5 +1,4 @@
 <h1>Hi 👋, I'm redcarti 🟥</h1>
-A beginner developer that trying to be better
 
 
 <h1>Languages and Tools:</h1>
