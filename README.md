@@ -12,4 +12,6 @@
 <br>
 
 <h1>Other Info</h1>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=redcarti&show_icons=true&locale=en" alt="redcarti" /></p>
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=redcarti&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redcarti&theme=dark&layout=compact)
