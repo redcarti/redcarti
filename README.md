@@ -13,5 +13,3 @@
 
 <h1>Other Info</h1>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=redcarti&show_icons=true&locale=en" alt="redcarti" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redcarti&" alt="redcarti" /></p>
