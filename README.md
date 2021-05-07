@@ -8,4 +8,4 @@
 <h1>Stats</h1>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=redcarti&show_icons=true&locale=en&theme=dark" alt="github stats" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redcarti&theme=dark&layout=compact" alt="top langs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redcarti&theme=dark&layout=compact&orgs=modularium,matelauncher" alt="top langs" /></p>
