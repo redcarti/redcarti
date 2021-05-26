@@ -10,9 +10,11 @@
 <br>
 <a href="https://github.com/matelauncher/mate-react">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matelauncher&repo=mate-react&theme=dark&show_owner=true" /></a>
 
+<!--
 <br>
 
 <h1 align="center">Stats</h1>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=redcarti&show_icons=true&locale=en&theme=dark" alt="github stats" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redcarti&theme=dark&layout=compact&orgs=modularium,matelauncher" alt="top langs" /></p>
+-->
