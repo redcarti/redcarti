@@ -2,13 +2,14 @@
 
 <br>
 
-<h1 align="center">My Projects</h1>
+<h1 align="center">My Projects (and contributions)</h1>
 
 <a href="https://github.com/modularium/discord">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=modularium&repo=discord&theme=dark&show_owner=true" /></a>
 <a href="https://github.com/modularium/check-update">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=modularium&repo=check-update&theme=dark&show_owner=true" /></a>
 <br>
 <br>
 <a href="https://github.com/matelauncher/mate-react">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matelauncher&repo=mate-react&theme=dark&show_owner=true" /></a>
+<a href="https://github.com/PrismarineJS/flying-squid">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prismarinejs&repo=flying-squid&theme=dark&show_owner=true" /></a>
 
 <!--
 <br>
